@@ -1,0 +1,34 @@
+
+@media only screen and (min-width: 320px) {
+
+    body {
+        background-color: lightblue;
+    }
+
+    .titel {
+        background-color: black;
+    }
+
+    .h1_titel_h1{
+        margin-bottom: 0px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+    }
+
+    .topnav #myLinks {
+        display: none;
+    }
+
+    .topnav a {
+        color: white;
+        background-color: saddlebrown;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        display: block;
+    }
+
+
+}
